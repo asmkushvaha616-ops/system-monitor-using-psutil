@@ -15,7 +15,9 @@ This is a Linux-based system monitoring tool built using python and the 'psutil'
 -Linux
 
 ## Run
-'''bash                                                                                              pip install psutil                                                                                 python3 monitor.py
+'''bash   
+pip install psutil  
+python3 monitor.py
 
 ## Author
 - Ashmi kushvaha
